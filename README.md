@@ -27,3 +27,15 @@
  - Typescript
  - NodeJs
  - React (React-dom/React-native)
+
+
+### Estudando
+
+- React native
+- Godot (desenvolvimento de jogos como hobby) linguagem GDScript
+- NextJs
+
+### Redes sociais
+<a href="https://www.linkedin.com/in/weldson-carlos/" target="blank">
+<img src="https://user-images.githubusercontent.com/56852794/198436014-c7beeee0-6b85-468b-8ef8-be6924263f19.png" style="width: 30px"/>
+</a>
