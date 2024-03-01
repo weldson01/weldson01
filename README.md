@@ -28,6 +28,7 @@
  - Typescript
  - NodeJs
  - React (React-dom/React-native)
+ - Flutter
 
 
 ### Estudando
